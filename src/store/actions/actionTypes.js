@@ -1,0 +1,6 @@
+export const START_SPINNER = "START_SPINNER";
+export const STOP_SPINNER = "STOP_SPINNER";
+
+export const TEST_VAL = "TEST_VAL";
+
+export const SET_FIREBASE_MESSAGE_TOKEN = "SET_FIREBASE_MESSAGE_TOKEN";
